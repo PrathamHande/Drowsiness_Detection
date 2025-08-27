@@ -20,7 +20,7 @@ This version uses traditional **Haar Cascade classifiers** for face and eye dete
 This version uses a modern, deep learning-based **YOLOv8** model for detection. It offers significantly improved accuracy and robustness, especially with faces that are not perfectly aligned or are in challenging lighting conditions.
 
 ## Project Structure
-
+```
 Drowsiness_Detection/
 ├── data/
 │   ├── raw/
@@ -38,6 +38,7 @@ Drowsiness_Detection/
 │   ├── main_app.py
 │   └── new_main_app.py
 └── requirements.txt
+```
 
 ## Setup and Installation
 
